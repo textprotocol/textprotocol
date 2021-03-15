@@ -1,2 +1,2 @@
-# [TEXT://PROTOCOL](https://textprotocol.org "textprotocol.org")
+# [TEXT://PROTOCOL](https://textprotocol.org "TEXTPROTOCOL.ORG")
 
